@@ -27,3 +27,6 @@ Thumbs.db
 node_modules
 add-files
 
+# History
+.history
+
